@@ -1,0 +1,14 @@
+.gif-container {
+    position: relative;
+    width: 100%; /* Adjust the width as needed */
+    height: 100vh; /* Adjust the height as needed */
+    overflow: hidden;
+  }
+
+  .popup-gif {
+    position: absolute;
+    display: none;
+    /* Adjust the top, left, and other properties as needed for the position */
+    top: 50px;
+    left: 50px;
+  }
