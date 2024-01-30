@@ -1,6 +1,6 @@
 # GrowtopiaBrowser
 
-(test project)
+(test project, prank game)
 this is probably one of my older project, it may be look insufficient, but it's a fundamental part of learning,
 to make mistakes in development
 
